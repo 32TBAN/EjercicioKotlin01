@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
                 Movie("Titulo 4", "https://loremflickr.com/320/240?lock=4"),
                 Movie("Titulo 5", "https://loremflickr.com/320/240?lock=5"),
                 Movie("Titulo 6", "https://loremflickr.com/320/240?lock=6"),
+                Movie("Titulo 7", "https://loremflickr.com/320/240?lock=7"),
+                Movie("Titulo 8", "https://loremflickr.com/320/240?lock=8"),
             )
         )
     }
